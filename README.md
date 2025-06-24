@@ -24,7 +24,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <https://github.com/Mahidhar-27/ai-resume-genius-96>
+git clone <https://github.com/shaik2234/AI-RESUME.git>
 
 # Step 2: Navigate to the project directory.
 cd <ai-resume-genius-96>
